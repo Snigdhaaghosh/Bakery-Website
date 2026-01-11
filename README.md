@@ -78,7 +78,7 @@ The website contains **four main pages**:
 ## Deployment
 The website is hosted on a free platform:
 
-- **Live Site:** [Add your deployed link here]
+- **Live Site:** [https://snigdhaaghosh.github.io/Bakery-Website/]
 
 ---
 

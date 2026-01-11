@@ -114,3 +114,5 @@ No additional setup, dependencies, or build steps are required.
 ## Author
 Developed by **Snigdha Ghosh**
 
+##License
+This project is under MIT License.
